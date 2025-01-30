@@ -2,44 +2,45 @@
  Project Overview
 
 This project analyzes unemployment rates by gender and age group across different countries from 2014 to 2024. The data is visualized on a world map using GeoPandas, and a Linear Regression Model is applied to analyze trends over time.
- Dataset
+
+##Dataset
 
 The dataset contains:
 
-Country Names
+*Country Names
 
-Unemployment Rate (%) from 2014 to 2024
+*Unemployment Rate (%) from 2014 to 2024
 
-Gender & Age Group Categories
+*Gender & Age Group Categories
 
-Mean Unemployment Rate (Calculated)
+*Mean Unemployment Rate (Calculated)
 
- Visualization
+ ##Visualization
 
-A choropleth map is created using GeoPandas.
+*A choropleth map is created using GeoPandas.
 
-Color-coded unemployment rates help identify trends by country.
+*Color-coded unemployment rates help identify trends by country.
 
-Technologies Used
+##Technologies Used 
 
-Python
+*Python
 
-GeoPandas (for mapping)
+*GeoPandas (for mapping)
 
-Matplotlib & Seaborn (for plotting)
+*Matplotlib & Seaborn (for plotting)
 
-Pandas (for data manipulation)
+*Pandas (for data manipulation)
 
-Scikit-learn (for linear regression analysis)
+*Scikit-learn (for linear regression analysis)
 
-Results & Insights
+##Results & Insights
 
-Certain countries show a consistent rise in unemployment rates.
+*Certain countries show a consistent rise in unemployment rates.
 
-Gender-based disparities in unemployment are evident.
+*Gender-based disparities in unemployment are evident.
 
-The Linear Regression Model suggests increasing unemployment in some regions.
+*The Linear Regression Model suggests increasing unemployment in some regions.
 
-License
+#License
 
 This project is licensed under the MIT License.
